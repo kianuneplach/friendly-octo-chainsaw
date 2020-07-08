@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    display: inline-block;
+}
+section, .header {
+    font-family: Poppins;
+}
+.header{
+    margin-left: 150px;
+}
+.border {
+    border: 2px solid grey;
+    width: 1300px;
+    margin: 10px auto;
+    }
+
+.color {
+    text-align: center;
+    padding: 50px 250px;
+    margin: 10px;
+    line-height: .5em;
+       }
+    .blue {
+        background-color: #2d5dcc;
+        color: white;
+        }
+    .pink{
+        background-color: #d957d9;
+    }
+    .mint{
+        background-color: #4fe0b0;
+    }
+    .beige {
+        background-color: #efd9ca;
+    }
+div .line {
+    text-decoration: underline;
+}
+section .fonts {
+    font-size: 100px;
+}
+   .source{
+        font-family: "Source Code Pro";
+    }
+    .nunito{
+        font-family: "Nunito Sans";
+    }
+    .poppins{
+        font-family: Poppins;
+    }
+    .boldy {
+        font-weight: bold;
+    }
+    .italicy {
+        font-style: italic;
+    }
+  .fonts div{
+    display: inline-block;
+            }
+.marghead {
+    margin-left: 50px;
+    
+}
+.color div, .fonts div, .text div {
+    margin: 20px 50px;
+}
+.text {
+    font-family: Poppins;
+}
+#mainpage {
+    font-size: 26px;
+    font-weight: 700;
+    font-family: "Nunito sans";
+}
+#subheading {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Poppins";
+}
+#paragraph {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Poppins";
+}
+
+
+    
